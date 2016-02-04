@@ -1,0 +1,3 @@
+[submodule "qqlib"]
+	path = qqlib
+	url = https://github.com/gera2ld/qqlib
