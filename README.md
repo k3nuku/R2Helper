@@ -11,6 +11,7 @@ QQR2 (QQ音速) 출석 이벤트 자동 참여 스크립트
 git clone https://github.com/k3nuku/R2Helper --recursive
 cd R2Helper
 cd qqlib
+pip install -r requirements.txt
 python setup.py build
 python setup.py install
 cd ..
